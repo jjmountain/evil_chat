@@ -1,0 +1,19 @@
+{
+  "name": "evil_chat",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "^4.0.7"
+  },
+  "devDependencies": {
+    "@arkweid/lefthook": "^0.6.4-b",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-import-resolver-webpack": "^0.11.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.1",
+    "prettier": "^1.19.1",
+    "webpack-dev-server": "^3.9.0"
+  }
+}
