@@ -2,14 +2,18 @@
   "name": "evil_chat",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.6.1",
     "@rails/webpacker": "^4.0.7",
     "actioncable": "^5.2.3",
     "normalize.css": "^8.0.1",
     "postcss-preset-env": "^6.7.0",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
     "stylelint": "^11.1.1"
   },
   "devDependencies": {
     "@arkweid/lefthook": "^0.6.4-b",
+    "@babel/preset-react": "^7.7.0",
     "babel-eslint": "^10.0.3",
     "eslint": "^6.6.0",
     "eslint-config-airbnb-base": "^14.0.0",
